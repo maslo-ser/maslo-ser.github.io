@@ -1,5 +1,14 @@
 [
- {"tytul": "Latający Obiekt", "autorzy": [Igor, Basia], "url": "https://bwiecz.github.io/latajacyobiekt/"},
- {"tytul": "UFO", "autorzy": [Emilka, Sofia], "url": "https://emilcia88.github.io/jakchcesz/"},
- {"tytul": "Papier kamień nożyce", "autorzy": [Basia, Emilka], "url": "https://bwiecz.github.io/papierkamien/"}
+ {"tytul": "Latający Obiekt",
+  "autorzy": [Igor, Basia],
+  "url": "https://bwiecz.github.io/latajacyobiekt/"
+ },
+ {"tytul": "UFO",
+  "autorzy": [Emilka, Sofia],
+  "url": "https://emilcia88.github.io/jakchcesz/"
+ },
+ {"tytul": "Papier kamień nożyce",
+  "autorzy": [Basia, Emilka],
+  "url": "https://bwiecz.github.io/papierkamien/"
+ }
 ]
