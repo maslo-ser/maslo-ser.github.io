@@ -1,14 +1,27 @@
 [
- {"tytul": "Latający Obiekt",
+ {
+  "tytul": "Latający Obiekt",
   "autorzy": ["Igor", "Basia"],
   "url": "https://bwiecz.github.io/latajacyobiekt/"
  },
- {"tytul": "UFO",
+ {
+  "tytul": "UFO",
   "autorzy": ["Emilka", "Sofia"],
   "url": "https://emilcia88.github.io/jakchcesz/"
  },
- {"tytul": "Papier kamień nożyce",
+ {
+  "tytul": "Papier kamień nożyce",
   "autorzy": ["Basia", "Emilka"],
   "url": "https://bwiecz.github.io/papierkamien/"
+ },
+ {
+  "tytul": "KaczSnake",
+  "autorzy": ["Szymon", "Julia", "Julia"],
+  "url": "https://szymonon.github.io/KaczSnake/"
+ },
+ {
+  "tytul": "Gra Sad",
+  "autorzy": ["Wiktor", "Kateryna"],
+  "url": "https://wiktorm257.github.io/GraSad/"
  }
 ]
