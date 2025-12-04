@@ -8,6 +8,9 @@ body {
 h1 {
     font-size: clamp(2.5rem, 5.3vw, 4.5rem);
 }
+a {
+    text-decoration: none;
+}
 td, tr, th {
     padding: 10px 10px 10px 10px;
     font-size: clamp(1rem, 2.3vw, 1.7rem);
