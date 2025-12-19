@@ -1,5 +1,10 @@
 [
  {
+  "tytul": "Papier kamień nożyce",
+  "autorzy": ["Darek", "Szymon"],
+  "url": "https://maslo-ser.github.io/PapierKamien/"
+ },
+ {
   "tytul": "Latający Obiekt",
   "autorzy": ["Igor", "Basia"],
   "url": "https://bwiecz.github.io/latajacyobiekt/"
@@ -38,5 +43,10 @@
   "tytul": "KaczMikołaj",
   "autorzy": ["Darek", "Szymon"],
   "url": "https://szymonon.github.io/KaczMikolaj/"
+ },
+ {
+  "tytul": "Miolaj",
+  "autorzy": ["Mikołaj", "Emilka"],
+  "url": "https://mikifikisiki.github.io/Miolaj/"
  }
 ]
