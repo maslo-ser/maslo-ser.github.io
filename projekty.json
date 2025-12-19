@@ -1,5 +1,10 @@
 [
  {
+  "tytul": "Galeria",
+  "autorzy": ["Mateusz"],
+  "url": "https://mo1tc.github.io/galeria/"
+ },
+ {
   "tytul": "Papier kamień nożyce",
   "autorzy": ["Darek", "Szymon"],
   "url": "https://maslo-ser.github.io/PapierKamien/"
@@ -48,5 +53,10 @@
   "tytul": "Miolaj",
   "autorzy": ["Mikołaj", "Emilka"],
   "url": "https://mikifikisiki.github.io/Miolaj/"
+ },
+  {
+  "tytul": "Miokołaj",
+  "autorzy": ["Mateusz", "Basia"],
+  "url": "https://mo1tc.github.io/mikolaj/"
  }
 ]
