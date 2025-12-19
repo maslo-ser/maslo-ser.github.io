@@ -29,50 +29,11 @@
   "autorzy": ["Kacper", "Krystian"],
   "url": "https://freakmasterpucownik12.github.io/PingasGame/"
  },
- 
-[
- {
-  "tytul": "Latający Obiekt",
-  "autorzy": ["Igor", "Basia"],
-  "url": "https://bwiecz.github.io/latajacyobiekt/"
- },
- {
-  "tytul": "UFO",
-  "autorzy": ["Emilka", "Sofia"],
-  "url": "https://emilcia88.github.io/jakchcesz/"
- },
- {
-  "tytul": "Papier kamień nożyce",
-  "autorzy": ["Basia", "Emilka"],
-  "url": "https://bwiecz.github.io/papierkamien/"
- },
- {
-  "tytul": "KaczSnake",
-  "autorzy": ["Szymon", "Julia", "Julia"],
-  "url": "https://szymonon.github.io/KaczSnake/"
- },
- {
-  "tytul": "Gra Sad",
-  "autorzy": ["Wiktor", "Kateryna"],
-  "url": "https://wiktorm257.github.io/GraSad/"
- },
- {
-  "tytul": "PingasGame",
-  "autorzy": ["Kacper", "Krystian"],
-  "url": "https://freakmasterpucownik12.github.io/PingasGame/"
- },
  {
   "tytul": "DVD",
   "autorzy": ["Piotrek", "Mikołaj", "Darek", "Mateusz"],
   "url": "https://ogorekkiszonyzmajonezemgoated.github.io/YoutubeDVD/"
  },
- {
-  "tytul": "KaczMikołaj",
-  "autorzy": ["Darek", "Szymon"],
-  "url": "https://szymonon.github.io/KaczMikolaj/"
- }
-]
-
  {
   "tytul": "KaczMikołaj",
   "autorzy": ["Darek", "Szymon"],
